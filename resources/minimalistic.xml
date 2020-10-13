@@ -9,11 +9,11 @@
     <option name="INDENT_GUIDE" value="333333" />
     <option name="LINE_NUMBERS_COLOR" value="444444" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="aaaaaa" />
+    <option name="NOTIFICATION_BACKGROUND" value="3c3c3c" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_INDENT_GUIDE" value="333333" />
     <option name="SELECTION_BACKGROUND" value="3c3c3c" />
     <option name="VISUAL_INDENT_GUIDE" value="333333" />
-    <option name="NOTIFICATION_BACKGROUND" value="3c3c3c" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -175,6 +175,12 @@
         <option name="FOREGROUND" value="aaaadd" />
       </value>
     </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="999999" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="444444" />
@@ -308,8 +314,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="66aa66" />
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="BACKGROUND" value="3c3c3c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -397,11 +403,5 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEPRECATED_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="999999" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
   </attributes>
 </scheme>
