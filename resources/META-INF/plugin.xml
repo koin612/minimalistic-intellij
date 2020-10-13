@@ -1,0 +1,32 @@
+<idea-plugin>
+  <id>com.github.koin</id>
+  <name>minimalistic</name>
+  <version>0.1</version>
+  <vendor email="gringointhenorth@gmail.com" url="https://github.com/koin612">koin612</vendor>
+
+  <description><![CDATA[
+      Port of VSCode-Theme minimalistic with some small changes.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      initial
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="6637fd04-1a82-434a-a020-08ce40acb949" path="/minimalistic.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

@@ -1,0 +1,28 @@
+{
+  "name": "minimalistic",
+  "dark": true,
+  "author": "koin612",
+  "editorScheme": "/minimalistic.xml",
+  "ui": {
+    "*": {
+      "foreground": "#cccccc",
+      "background": "#222222",
+      "selectionForeground": "#cccccc",
+      "selectionBackground": "#3c3c3c",
+      "selectionInactiveBackground": "#303030",
+      "infoForeground": "#999999",
+      "disableForeground": "#999999",
+      "inactiveForeground": "#999999",
+      "matchForeground": "#cccccc",
+
+      "borderColor": "#333333",
+      "separatorForeground": "#333333",
+      "separatorColor": "#333333",
+      "lineSeparatorColor": "#333333"
+    },
+    "Borders": {
+      "color": "#333333",
+      "ContrastBorderColor": "#333333"
+    }
+  }
+}
