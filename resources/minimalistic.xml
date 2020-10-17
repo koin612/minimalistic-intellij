@@ -351,8 +351,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="66aa66" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="F3E430" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
